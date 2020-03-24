@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Yunus Yerli",
+      "department": "Bilişim",
+      "salary": "6000",
+      "id": "a1"
+    },
+    {
+      "id": "a2",
+      "name": "Yusuf Güney",
+      "department": "Eğlence",
+      "salary": "12000"
+    },
+    {
+      "id": "a3",
+      "name": "Mehmet Hakan",
+      "department": "Pazarlama",
+      "salary": "4500"
+    },
+    {
+      "id": "k85mnle7",
+      "name": "Gülbahar Türkoğlu",
+      "department": "İnşaat",
+      "salary": "6500"
+    },
+    {
+      "id": "k85mqz6x",
+      "name": "Emre Yılmaz",
+      "department": "Otomosatyon",
+      "salary": "9000"
+    },
+    {
+      "id": "k85o5sqx",
+      "name": "Mehmet Fırıncı",
+      "department": "Ekmekçi",
+      "salary": "3000"
+    },
+    {
+      "name": "Yunus Hacı",
+      "department": "Tv Teknisyeni",
+      "salary": "3500",
+      "id": "k85rtw40"
+    }
+  ]
+}
